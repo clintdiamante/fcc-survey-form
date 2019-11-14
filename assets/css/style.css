@@ -114,3 +114,18 @@
  	background-color: #27AE60;
   	transition: background-color .6s ease-in-out;
  }
+
+ #footer {
+ 	font-size: 13px;
+ 	text-align: center;
+ 	margin-top: 40px;
+ }
+
+ #footer > p > a {
+ 	color: #3873D7;
+ 	text-decoration: none;
+ }
+
+ #footer > p > a:hover {
+ 	text-decoration: underline;
+ }
